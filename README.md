@@ -1,21 +1,7 @@
 # Node
 
-## WEEK 1
+[Week 1](./week-1.md)
 
-Class
-- node girls workshop: https://github.com/node-girls/express-workshop
+[Week 2](./week-2.md)
 
-Homework
-- finish workshop
-
-## WEEK 2
-
-Class
-- deep dive into async
-
-Homework
-
-## WEEK 3 - hosting and deployment
-
-Class
-- heroku
+[Week 3](./week-3.md)
