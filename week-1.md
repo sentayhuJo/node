@@ -17,7 +17,7 @@ The workshop will start at **10:30 AM** in the usual location. Please make sure 
 * Finish the tasks from the workshop
 * Add an `/about` route to your app to serve an HTML page. We will add some supporting materials to help you with this task during the week. You can see one way of doing it here: http://stackoverflow.com/questions/4529586/render-basic-html-view
 * Complete the nodeschool.io 'learnyounode' tutorial https://github.com/workshopper/learnyounode
-* Research the following topics: blocking vs. non-blocking; RESTful APIs; templating engines; HTTP code; asynscronous programming (Google them!). We will be asking questions in next week's session.
+* Research the following topics: blocking vs. non-blocking; RESTful APIs; templating engines; HTTP codes; asynscronous programming. Google them! We will be asking questions in next week's session.
 * Ask at least three questions in slack.
 * Answer at least three questions in slack.
 
